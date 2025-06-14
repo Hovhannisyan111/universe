@@ -1,5 +1,5 @@
 Site link - https://cerulean-entremet-82be95.netlify.app/
-![Description](photo.jpg)
+![Description](web.png)
 
 # Universe - University Dashboard
 
